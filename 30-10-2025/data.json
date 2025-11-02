@@ -1,0 +1,1030 @@
+[
+    
+    {
+        "partnerID": "P021",
+        "first_name": "Alex",
+        "last_name": "Jone",
+        "company_name": "Nimbus Ventures",
+        "email": "alex.joness@example.com",
+        "pw": "4453",
+        "status": "active",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D448",
+                "domain": "greenalexa.in",
+                "status": "active",
+                "activationKey": "ACT-LCQ5-IP13",
+                "creation_datetime": "08-13-2025 04:22:15",
+                "added_by": "P021",
+                "index": 646,
+                "themes": "theme005"
+            },
+            {
+                "id": "D935",
+                "domain": "sdg.in",
+                "status": "active",
+                "activationKey": "ACT-5U2D-T8O9",
+                "creation_datetime": "08-13-2025 04:22:23",
+                "added_by": "P021",
+                "index": 7683,
+                "themes": "themedef"
+            },
+            {
+                "id": "D632",
+                "domain": "sd2.in",
+                "status": "active",
+                "activationKey": "ACT-VBEI-6JE7",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P021",
+                "index": 9513,
+                "themes": "themedef"
+            },
+            {
+                "id": "D233",
+                "domain": "sd3.canada",
+                "status": "inactive",
+                "activationKey": "ACT-V93H-T6RR",
+                "creation_datetime": "08-13-2025 16:55:00",
+                "added_by": "P021",
+                "index": 525,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P021",
+            "domains": [
+                {
+                    "domain_id": "D448",
+                    "domain_name": "greenalexa.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D935",
+                    "domain_name": "sdg.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D632",
+                    "domain_name": "sd2.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D233",
+                    "domain_name": "sd3.canada",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P022",
+        "first_name": "Mia",
+        "last_name": "Rivera",
+        "company_name": "Copperleaf Dynamics",
+        "email": "mia.rivera@greenmail.co",
+        "pw": "6678",
+        "status": "active",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D054",
+                "domain": "miagreens.bio",
+                "status": "active",
+                "activationKey": "ACT-JY6P-VK2A",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P022",
+                "index": 455,
+                "themes": "themedef"
+            },
+            {
+                "id": "D563",
+                "domain": "dummyapis.in",
+                "status": "active",
+                "activationKey": "ACT-J15Y-2Z2E",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P022",
+                "index": 3285,
+                "themes": "theme005"
+            },
+            {
+                "id": "D195",
+                "domain": "test.com",
+                "status": "active",
+                "activationKey": "ACT-DGOA-FB3B",
+                "creation_datetime": "08-13-2025 14:56:33",
+                "added_by": "P022",
+                "index": 1689,
+                "themes": "themedef"
+            },
+            {
+                "id": "D629",
+                "domain": "exampleofbb.com",
+                "status": "active",
+                "activationKey": "ACT-O8J2-EVMI",
+                "creation_datetime": "08-13-2025 14:59:16",
+                "added_by": "P022",
+                "index": 6247,
+                "themes": "themedef"
+            },
+            {
+                "id": "D413",
+                "domain": "dergro.com",
+                "status": "active",
+                "activationKey": "ACT-YZ1E-22VL",
+                "creation_datetime": "08-13-2025 16:17:01",
+                "added_by": "P022",
+                "index": 2874,
+                "themes": "themedef"
+            },
+            {
+                "id": "D070",
+                "domain": "mia.canada",
+                "status": "active",
+                "activationKey": "ACT-FTK5-7BFU",
+                "creation_datetime": "08-13-2025 14:55:57",
+                "added_by": "P022",
+                "index": 3155,
+                "themes": "themedef"
+            },
+            {
+                "id": "D063",
+                "domain": "themetest1.com",
+                "status": "active",
+                "activationKey": "ACT-UMW8-E28J",
+                "creation_datetime": "09-01-2025 13:29:38",
+                "added_by": "P022",
+                "index": 9384
+            },
+            {
+                "id": "D867",
+                "domain": "workplace.com",
+                "status": "inactive",
+                "activationKey": "ACT-1RSD-D7CS",
+                "creation_datetime": "09-22-2025 15:03:31",
+                "added_by": "P022",
+                "index": 5905,
+                "themes": "themedef"
+            },
+            {
+                "id": "D808",
+                "domain": "mia.canada.test.10000",
+                "status": "inactive",
+                "activationKey": "ACT-LHL2-IWZ7",
+                "creation_datetime": "10-07-2025 17:07:26",
+                "added_by": "P022",
+                "index": 6957,
+                "themes": "themedef"
+            },
+            {
+                "id": "D654",
+                "domain": "mia.canada.test.23",
+                "status": "inactive",
+                "activationKey": "ACT-3BIC-QDJ9",
+                "creation_datetime": "10-14-2025 15:45:13",
+                "added_by": "P022",
+                "index": 4350,
+                "themes": "themedef"
+            },
+            {
+                "id": "D956",
+                "domain": "asdad",
+                "status": "inactive",
+                "activationKey": "ACT-WKZT-6WHO",
+                "creation_datetime": "10-14-2025 16:36:26",
+                "added_by": "P022",
+                "index": 2102,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P022",
+            "domains": [
+                {
+                    "domain_id": "D054",
+                    "domain_name": "miagreens.bio",
+                    "chatbotname": "Zico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": true,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D563",
+                    "domain_name": "dummyapis.in",
+                    "chatbotname": "CL-Talk",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D195",
+                    "domain_name": "test.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D629",
+                    "domain_name": "exampleofbb.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D413",
+                    "domain_name": "dergro.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D070",
+                    "domain_name": "mia.canada",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D063",
+                    "domain_name": "themetest1.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D867",
+                    "domain_name": "workplace.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D808",
+                    "domain_name": "mia.canada.test.10000",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D654",
+                    "domain_name": "mia.canada.test.23",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D956",
+                    "domain_name": "asdad",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P023",
+        "first_name": "Rajesh",
+        "last_name": "Kumar",
+        "company_name": "BlueHaven Analytics",
+        "email": "rajesh.kumar92@ecoindia.in",
+        "pw": "5734",
+        "status": "inactive",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D055",
+                "domain": "rajeshfarmers.in",
+                "status": "active",
+                "activationKey": "ACT-Z5C9-MN1D",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P023",
+                "index": 4656,
+                "themes": "themedef"
+            },
+            {
+                "id": "D056",
+                "domain": "pureharvest.org",
+                "status": "inactive",
+                "activationKey": "ACT-XV0T-LQ8N",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P023",
+                "index": 433,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P023",
+            "domains": [
+                {
+                    "domain_id": "D055",
+                    "domain_name": "rajeshfarmers.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D056",
+                    "domain_name": "pureharvest.org",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P024",
+        "first_name": "Emily",
+        "last_name": "Woods",
+        "company_name": "Summit Forge Industries",
+        "email": "emily.woods@naturalmail.com",
+        "pw": "88765",
+        "status": "inactive",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D057",
+                "domain": "woodsorganic.org",
+                "status": "inactive",
+                "activationKey": "ACT-P4H8-KYW2",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P024",
+                "index": 123,
+                "themes": "themedef"
+            },
+            {
+                "id": "D058",
+                "domain": "emilysfarm.store",
+                "status": "pending",
+                "activationKey": "ACT-D1Q7-LE9X",
+                "creation_datetime": "08-13-2025 09:15:27",
+                "added_by": "P024",
+                "index": 12,
+                "themes": "themedef"
+            },
+            {
+                "id": "D321",
+                "domain": "domain.com",
+                "status": "active",
+                "activationKey": "ACT-03UB-IWKI",
+                "creation_datetime": "08-21-2025 16:42:44",
+                "added_by": "P024",
+                "index": 832,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P024",
+            "domains": [
+                {
+                    "domain_id": "D057",
+                    "domain_name": "woodsorganic.org",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D058",
+                    "domain_name": "emilysfarm.store",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D321",
+                    "domain_name": "domain.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P025",
+        "first_name": "Thomas",
+        "last_name": "Greenfield",
+        "company_name": "greenfield CO",
+        "email": "t.greenfield@greenzone.net",
+        "pw": "53874",
+        "status": "active",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D059",
+                "domain": "greenfieldfarms.com",
+                "status": "pending",
+                "activationKey": "ACT-YR3M-JA5U",
+                "creation_datetime": "08-13-2025 23:44:17",
+                "added_by": "P025",
+                "index": 88,
+                "themes": "themedef"
+            },
+            {
+                "id": "D060",
+                "domain": "thomasg.organic",
+                "status": "active",
+                "activationKey": "ACT-VB7T-XP0E",
+                "creation_datetime": "08-13-2025 13:44:17",
+                "added_by": "P025",
+                "index": 267,
+                "themes": "themedef"
+            },
+            {
+                "id": "D459",
+                "domain": "advertisingagency.com",
+                "status": "active",
+                "activationKey": "ACT-2U5M-KEET",
+                "creation_datetime": "09-24-2025 18:46:13",
+                "added_by": "P025",
+                "index": 7221,
+                "themes": "themedef"
+            },
+            {
+                "id": "D104",
+                "domain": "stringofads.com",
+                "status": "active",
+                "activationKey": "ACT-ODGH-ZAUI",
+                "creation_datetime": "09-24-2025 18:48:19",
+                "added_by": "P025",
+                "index": 9550,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P025",
+            "domains": [
+                {
+                    "domain_id": "D059",
+                    "domain_name": "greenfieldfarms.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D060",
+                    "domain_name": "thomasg.organic",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D459",
+                    "domain_name": "advertisingagency.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D104",
+                    "domain_name": "stringofads.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P026",
+        "first_name": "Diptodeep",
+        "last_name": "Biswas",
+        "company_name": "KoffeeShop",
+        "email": "abcd@gmail.com",
+        "pw": "1234",
+        "status": "active",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D755",
+                "domain": "notashop.com",
+                "status": "inactive",
+                "activationKey": "ACT-1HGD-NYJG",
+                "creation_datetime": "08-29-2025 12:25:49",
+                "added_by": "P026",
+                "index": 2900,
+                "themes": "themedef"
+            },
+            {
+                "id": "D353",
+                "domain": "lornace.jp",
+                "status": "inactive",
+                "activationKey": "ACT-2GX3-1NIK",
+                "creation_datetime": "08-29-2025 12:28:13",
+                "added_by": "P026",
+                "index": 6611,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P026",
+            "domains": [
+                {
+                    "domain_id": "D755",
+                    "domain_name": "notashop.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D353",
+                    "domain_name": "lornace.jp",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P028",
+        "first_name": "Atalanta",
+        "last_name": "Da",
+        "company_name": "Capsule labs",
+        "email": "atalanta@capsulelabs.com",
+        "pw": "1234",
+        "status": "active",
+        "creation_date": "08-13-2025",
+        "domains": [
+            {
+                "id": "D458",
+                "domain": "examplebyatalanta.com",
+                "status": "active",
+                "activationKey": "ACT-AJ6R-FX2I",
+                "creation_datetime": "08-13-2025 16:46:11",
+                "added_by": "P028",
+                "index": 6046,
+                "themes": "theme002"
+            },
+            {
+                "id": "D636",
+                "domain": "exaple2byatalanta.com",
+                "status": "active",
+                "activationKey": "ACT-V3FL-1CY4",
+                "creation_datetime": "08-13-2025 16:46:55",
+                "added_by": "P028",
+                "index": 5199,
+                "themes": "themedef"
+            },
+            {
+                "id": "D020",
+                "domain": "example4byatalanta.com",
+                "status": "active",
+                "activationKey": "ACT-YD2Y-69O5",
+                "creation_datetime": "08-21-2025 16:48:28",
+                "added_by": "P028",
+                "index": 7768,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P028",
+            "domains": [
+                {
+                    "domain_id": "D458",
+                    "domain_name": "examplebyatalanta.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D636",
+                    "domain_name": "exaple2byatalanta.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D020",
+                    "domain_name": "example4byatalanta.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P029",
+        "first_name": "olivia julian",
+        "last_name": "henderson",
+        "company_name": "henderson agro ltd",
+        "email": "oliviaJ.henderson@hendersonagro.com",
+        "pw": "testpass123",
+        "status": "inactive",
+        "creation_date": "09-04-2025-",
+        "domains": [],
+        "policy": {
+            "partner_id": "P029",
+            "domains": []
+        }
+    },
+    {
+        "partnerID": "P030",
+        "first_name": "ADIPTO",
+        "last_name": "ROY",
+        "company_name": "Capsule Labs",
+        "email": "adiptoroy@capsulelab.org",
+        "pw": "12345678",
+        "status": "active",
+        "creation_date": "09-04-2025-",
+        "domains": [
+            {
+                "id": "D250",
+                "domain": "example11byadipto.com",
+                "status": "active",
+                "activationKey": "ACT-65HG-6UNS",
+                "creation_datetime": "09-04-2025 15:16:38",
+                "added_by": "P030",
+                "index": 4194,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P030",
+            "domains": [
+                {
+                    "domain_id": "D250",
+                    "domain_name": "example11byadipto.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "partnerID": "P031",
+        "first_name": "Partner first name",
+        "last_name": "Last name",
+        "company_name": "Abcdef",
+        "email": "abcdefg@gmail.com",
+        "pw": "abcdefghij123",
+        "status": "active",
+        "creation_date": "09-18-2025-",
+        "domains": [
+            {
+                "id": "D407",
+                "domain": "www.partner123.com",
+                "status": "active",
+                "activationKey": "ACT-Q2T5-YYQ1",
+                "creation_datetime": "09-18-2025 11:22:51",
+                "added_by": "P031",
+                "index": 9553,
+                "themes": "themedef"
+            }
+        ],
+        "policy": {
+            "partner_id": "P031",
+            "domains": [
+                {
+                    "domain_id": "D407",
+                    "domain_name": "www.partner123.com",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "ticket_id": "T20",
+        "partnerID": "P002",
+        "first_name": "Subhadip",
+        "last_name": "Ghosh",
+        "company_name": "Home",
+        "email": "subhadipghoshup@gmail.com",
+        "pw": "12345678",
+        "status": "active",
+        "creation_date": "10-16-2025-",
+        "domains": [
+            {
+                "id": "D167",
+                "domain": "subhadip.in",
+                "status": "active",
+                "activationKey": "ACT-U5XG-BAPO",
+                "creation_datetime": "10-17-2025 08:43:24",
+                "added_by": "P002",
+                "index": 7727,
+                "themes": "themedef"
+            }
+        ],
+        "approval": true,
+        "type": "registration",
+        "policy": {
+            "partner_id": "P002",
+            "domains": [
+                {
+                    "domain_id": "D743",
+                    "domain_name": "sd3.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D167",
+                    "domain_name": "subhadip.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "ticket_id": "T26",
+        "partnerID": "_r30k3nmz3vZsp61",
+        "first_name": "Subhadip",
+        "last_name": "Ghosh",
+        "company_name": "Home",
+        "email": "subhadipghosh215@gmail.com",
+        "pw": "12345678",
+        "status": "active",
+        "creation_date": "10-26-2025-",
+        "domains": [
+            {
+                "id": "D524",
+                "domain": "subhadipghosh.in",
+                "status": "inactive",
+                "activationKey": "ACT-46M8-V8T5",
+                "creation_datetime": "10-26-2025 13:34:16",
+                "added_by": "_r30k3nmz3vZsp61",
+                "index": 957,
+                "themes": "themedef"
+            }
+        ],
+        "approval": true,
+        "type": "registration",
+        "policy": {
+            "partner_id": "_r30k3nmz3vZsp61",
+            "domains": [
+                {
+                    "domain_id": "D374",
+                    "domain_name": "sdg8.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                },
+                {
+                    "domain_id": "D524",
+                    "domain_name": "subhadipghosh.in",
+                    "chatbotname": "Pico",
+                    "blocked_intents": {
+                        "generel": false,
+                        "pantry_management": false,
+                        "recipe_management": false,
+                        "cooking_management": false,
+                        "meal_planning": false,
+                        "shopping_list": false,
+                        "recipe_interactions": false
+                    }
+                }
+            ]
+        }
+    }
+]
