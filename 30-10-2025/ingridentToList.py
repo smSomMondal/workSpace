@@ -4,7 +4,7 @@ input_file = "cleaned_output.csv"
 output_file = "unique_ids.csv"
 
 # Step 1: Read all IDs from input file
-unique_ids = set()
+unique_ids = set() # set to collect unick element
 
 with open(input_file, "r", newline="") as infile:
     reader = csv.reader(infile)
@@ -14,7 +14,7 @@ with open(input_file, "r", newline="") as infile:
         # Remove brackets and spaces
         cleaned = row[0].replace("[", "").replace("]", "").replace(" ", "")
         # Split into individual IDs
-        ids = cleaned.split(",")
+        ids = cleaned.split(",") 
         # Add each to set (automatically removes duplicates)
         unique_ids.update(ids)
 

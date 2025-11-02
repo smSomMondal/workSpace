@@ -119,7 +119,7 @@ raw_data = """
 """
 
 # Step 1: Extract all codes using regex
-codes = re.findall(r'P\d{3}D\d{3}R\d{3}', raw_data)
+codes = re.findall(r'P\d{3}D\d{3}R\d{3}', raw_data) # re.findall() returns a list of all such matches found in raw_data
 
 # Step 2: Write them one per line into a CSV file
 with open("output_column.csv", "w", newline="") as f:

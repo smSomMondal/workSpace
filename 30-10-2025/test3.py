@@ -23,7 +23,7 @@ for _ in range(791):  # total rows needed
     for _ in range(random.randint(4, 8)):  # 5 elements per row
         random_id = generate_unique_id()
         id_array.append(random_id)
-    rows.append([id_array])
+    rows.append([id_array]) # Add a new row to the rows list, where that row contains id_array as a single column
 
 # Step 4: Write to CSV
 with open("output_with_ids.csv", "w", newline="") as f:
